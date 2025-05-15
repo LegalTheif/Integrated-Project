@@ -3,8 +3,8 @@
 #include <ESPAsyncWebServer.h>
 
 // WiFi credentials
-const char* ssid = "OPPO A52";
-const char* password = "opnumber";
+const char* ssid = "";
+const char* password = "";
 
 AsyncWebServer server(80);
 
